@@ -170,7 +170,7 @@ section > p {
     padding:0;
 }
 .line .left_area {
-    background-image: url(../img/line.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/line.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -208,25 +208,25 @@ section > p {
     font-size:1vw;
 }
 .line .right_area ul li:first-child {
-    background-image: url(../img/line1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/line1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .line .right_area ul li:nth-child(2) {
-    background-image: url(../img/line2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/line2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .line .right_area ul li:nth-child(3) {
-    background-image: url(../img/line3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/line3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .line .right_area ul li:last-child {
-    background-image: url(../img/line4.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/line4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -267,19 +267,19 @@ section > p {
     height: 100%;
 }
 .slide .swiper3 .s1 {
-    background-image: url(../img/slide1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/slide1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .slide .swiper3 .s2 {
-    background-image: url(../img/slide2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/slide2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .slide .swiper3 .s3 {
-    background-image: url(../img/slide3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/slide3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -469,7 +469,7 @@ footer .ft-right p {
         width:100%;
         font-size: 2.4vw;
         padding:1.5vw;
-        background-image: url(../img/flower.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/flower.png);
         background-position: center right;
         background-repeat: no-repeat;
         background-size: 16px;
@@ -539,16 +539,16 @@ footer .ft-right p {
         box-sizing: border-box;
     }
     .line .right_area ul li:first-child {
-        background-image: url(../img/mline1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mline1.png);
     }
     .line .right_area ul li:nth-child(2) {
-        background-image: url(../img/mline2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mline2.png);
     }
     .line .right_area ul li:nth-child(3) {
-        background-image: url(../img/mline3.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mline3.png);
     }
     .line .right_area ul li:last-child {
-        background-image: url(../img/mline4.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mline4.png);
     }
     .item {
         width:100%;
@@ -591,13 +591,13 @@ footer .ft-right p {
         height:70vw;
     }
     .slide .swiper3 .s1 {
-        background-image: url(../img/mslide3.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mslide3.png);
     }
     .slide .swiper3 .s2 {
-        background-image: url(../img/mslide2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mslide2.png);
     }
     .slide .swiper3 .s3 {
-        background-image: url(../img/mslide1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/innisfree/img/mslide1.png);
     }
     .slide .s3_prev {
         width:5vw;
